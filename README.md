@@ -8,10 +8,10 @@
 
 ### Roadmap
 - [X] Memory & registers
-- [] Implement standard Chip-8 instructions
-- [] Implement 16-key keypad emulation
-- [] Implement display emulation
-- [] Timers & sound
+- [-] Implement standard Chip-8 instructions
+- [-] Implement 16-key keypad emulation
+- [-] Implement display emulation
+- [-] Timers & sound
 
 ### Material used
 - [Cowgod's Chip-8 Technical Reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
