@@ -14,7 +14,7 @@ typedef struct {
     uint16_t pc; // Program counter
     uint16_t stack[16];
     uint8_t sp;  // Stack pointer
-    uint8_t display[DISPLAY_WIDTH * DISPLAY_HEIGHT]; // 64x32 monochrome display
+    uint8_t display[DISPLAY_WIDTH * DISPLAY_HEIGHT]; // 64x32 monochrome display represented as a 1D array
     uint8_t keypad[16];  // Keypad state
     uint8_t delay_timer;
     uint8_t sound_timer;
